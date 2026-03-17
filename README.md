@@ -1,4 +1,4 @@
-# Python-Algoriyhm
+# Python-Algoritms
 Collection of python algorithms and problem solving exercises.
 
 # Features
@@ -11,7 +11,7 @@ Collection of python algorithms and problem solving exercises.
 
 Clone the repository: 
 
-Git clone https://github.com/username/python-algoriym.git
+Git clone https://github.com/christophersolaka/python-Algoritms.git
 
 Navigate into the project directory:
 
