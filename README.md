@@ -19,7 +19,7 @@ cd python-algoriym
 
 install dependencies:
 
-pip install -r rewuirments.txt
+pip install -r requirements.txt
 
 #usage 
 
